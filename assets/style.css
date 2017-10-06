@@ -1,0 +1,10 @@
+@font-face {
+
+    font-family: 'anicb';
+    src: url('anicb___.ttf');
+}
+
+h1 {
+    font-family: 'anicb';
+}
+
